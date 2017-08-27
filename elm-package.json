@@ -1,5 +1,5 @@
 {
-    "version": "0.0.0",
+    "version": "1.0.0",
     "summary": "Manage localStorage from Elm",
     "repository": "https://github.com/owanturist/elm-localstorage.git",
     "license": "BSD3",
